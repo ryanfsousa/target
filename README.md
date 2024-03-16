@@ -56,4 +56,4 @@ Primeiro, é necessário ligar dois interruptores. Chame-os de A e B. Então, v�
 
 ## Pergunta 5
 
-Este é um problema bastante intuitivo, [basta percorrer metade da _string_, trocando os caractere na posição `i` com o caractere `n - i - 1`](./ReverseString.cpp). Realizei a troca utilizando variável auxiliar, estou ciente da existência da função swap do C++, mas evitei usá-la e também conheço o algoritmo [XOR swap](https://pt.wikipedia.org/wiki/Algoritmo_XOR_Swap), mas não o implementei para permitir legibilidade do código.
+Este é um problema bastante intuitivo, basta percorrer metade da _string_, trocando os caractere na posição `i` com o caractere `n - i - 1` (no arquivo [ReverseString.cpp](./ReverseString.cpp)). Realizei a troca utilizando variável auxiliar, estou ciente da existência da função swap do C++, mas evitei usá-la e também conheço o algoritmo [XOR swap](https://pt.wikipedia.org/wiki/Algoritmo_XOR_Swap), mas não o implementei para permitir legibilidade do código.
