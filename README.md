@@ -52,7 +52,7 @@ f) 2,10, 12, 16, 17, 18, 19, `200` - números que começam com a letra d, por ex
 
 ## Pergunta 4
 
-Primeiro, é necessário ligar dois interruptores. Chame-os de A e B. Então, vá até a outra sala e veja quais lâmpadas acenderam. Então volte à sala dos interruptores, desligue A e ligue o terceiro interruptor. A corresponde à lâmpada que se apagou, B corresponde à lâmpada que se manteve acesa e o terceiro interruptor corresponde à lâmpada que acendeu.
+Primeiro, é necessário ligar dois interruptores. Chame-os de A e B. Então, vá até a outra sala e veja quais lâmpadas acenderam. Então volte à sala dos interruptores, desligue A e ligue o terceiro interruptor. Volte até a sala das lâmpadas e fica óbvio que A corresponde à lâmpada que se apagou, B corresponde à lâmpada que se manteve acesa e o terceiro interruptor corresponde à lâmpada que acendeu.
 
 ## Pergunta 5
 
