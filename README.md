@@ -22,7 +22,7 @@ Para melhorar esta solução, podemos aplicar o conceito de memoização, que es
 
 Em resumo, basta adicionar um array para guardar a resposta ou consultá-la, caso já tenha sido calculada. Com isso, obtemos uma solução `O(n)` em tempo, mas `O(n)` em memória. Isso é conhecido como programação dinâmica _top-down_.
 
-Ainda é possível melhorar ainda mais este algoritmo, basta reescrever a ideia de programação dinâmica, mas ao invés de quebrar um problema maior que será resolvido combinando a solução de problemas menores, cria-se inicialmente a solução de problemas menores e combinar-se-os até encontrar a solução do problema maior. A complexidade de tempo e memória ainda é a mesma, no entanto, a constante de tempo é reduzida, já que não existe mais a necessidade de trabalhar com recursão, que realiza operações relacionadas ao salvamento de contexto. Isso é conhecido como programação dinâmica _bottom-up_.
+Ainda é possível melhorar ainda mais este algoritmo, basta reescrever a ideia de programação dinâmica, mas ao invés de quebrar um problema maior que será resolvido combinando a solução de problemas menores, cria-se inicialmente a solução de problemas menores e combina-os até encontrar a solução do problema maior. A complexidade de tempo e memória ainda é a mesma, no entanto, a constante de tempo é reduzida, já que não existe mais a necessidade de trabalhar com recursão, que realiza operações relacionadas ao salvamento de contexto. Isso é conhecido como programação dinâmica _bottom-up_.
 
 Existe uma solução em `O(log n)`, tempo logarítmico, mas torna-se necessário trabalhar com multiplicação rápida de matrizes, fugindo da pergunta.
 
